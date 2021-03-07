@@ -1,0 +1,51 @@
+\select@language {english}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Proposed System Block Diagram}}{3}{figure.1.1}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Traditional Method: Syetem Architecture}}{13}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Basic Control Block-CNN}}{14}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Hidden Layers in CNN}}{16}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Internal Layers}}{17}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Constrained View}}{17}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Deep Learning Architecture}}{22}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces SGDM Curves}}{23}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Registered Image With Tumor; Registration method is angle based registration}}{26}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Registered Image Without Tumor; Registration method is angle based registration}}{26}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Accuracy Plot-Training Angle Class; Overall Accuracy obtained is 78\%; Total iterations are 100, with 2 iteration per epoch}}{27}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Confusion Chart For Angle Classification; Total output classes obtained were 20 , the diagonal elements highlighted in blue are the number of images correctly classifed}}{27}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Accuracy Plot-Training Tumor Class;Overall Accuracy obtained is 79\%; Total iterations are 100, with 2 iteration per epoch}}{28}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Confusion Matrix For Tumor Classification; Total output classes obtained were 2 , the diagonal elements shows the number of images correctly classifed}}{28}{figure.4.13}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Image Decomposition using 2D DWT }}{30}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Block diagram of filter analysis}}{31}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Frequency domain representation of DWT}}{32}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces A3 level Filter bank}}{32}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces One level of 2-D image decomposition}}{33}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces One level of 2-D image reconstruction }}{33}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces PCA Fusion block diagram}}{35}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Flow chart DWT-PCA Fusion.}}{36}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Input image1 and Input image2, CT and MRI}}{37}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Fusion results of various methods}}{37}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Example-1:Image Fusion;The MRI and CT images are registered first and then the fusion takes place.}}{38}{figure.5.11}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Example-2:Image Fusion; Fused image gives more insight into the corners and edges while preserving the image quality. }}{38}{figure.5.12}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Example-3:Image Fusion; Fused image has less noise,indicating the fusion method used was good. }}{38}{figure.5.13}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Ex 1:Segmented Image;The binary image and the segmented image can be found alongside with the tumor bounded region. }}{41}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Ex 2:Segmented Image; Morphological operations are performed to compute the tumor region;BwBoundaries are used to extract the tumor region }}{41}{figure.6.2}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Simple 6*6 gray scale image}}{46}{figure.A.1}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Background Image}}{46}{figure.A.2}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Background calculations}}{46}{figure.A.3}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Foreground Image}}{47}{figure.A.4}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Foreground calculation}}{47}{figure.A.5}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Table showing thresh values from 0-5}}{47}{figure.A.6}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Thresholded Image}}{48}{figure.A.7}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Wavelet Functions}}{50}{figure.B.1}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Flat structuring element}}{51}{figure.C.1}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Non-flat structuring element}}{52}{figure.C.2}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces Disk-shape structuring element}}{53}{figure.C.3}
